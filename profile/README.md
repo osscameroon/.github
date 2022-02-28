@@ -1,5 +1,6 @@
 <p align="center">
-    <img src="https://avatars.githubusercontent.com/u/73784866?s=200&v=4" height="230" />
+    ![OSS Secondary logo](https://user-images.githubusercontent.com/45546512/156070521-c626255d-8342-442d-97e8-a7e1986563e8.png)
+
 </p>
 
 # Hello !
